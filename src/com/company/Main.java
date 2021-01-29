@@ -16,6 +16,10 @@ public class Main {
         troyo.temperature = 34845678;
         troyo.Radius = "984567987km";
 
+	Planet22 Apollo = new Planet22();
+        Fearo.color = "blue";
+        Fearo.Radius = "87897889km";
+
 
     }
 }
