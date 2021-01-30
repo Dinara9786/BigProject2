@@ -3,6 +3,8 @@ package com.company;
 import java.util.Objects;
 
 public class Main {
+    
+    Dinara
 
     public static void main(String[] args) {
 
